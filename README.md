@@ -14,3 +14,7 @@ Carrito de compras version 2
 ![image](https://user-images.githubusercontent.com/101758866/176282597-09a612bc-b077-45c5-be4d-116949afe450.png)
 
 en este repositorio encontraran un codigo de JavaScript elaborado con clases, un programa mas avanzado y completo de carrito de compras, contiene un archivo JSON, y se puede visualizar los productos que se venden, camisa, medias  pantalon tenis y zapatos, donde el administrador de la tienda puede agregar productos nuevos, y el cliente puede elegir el producto que desea comprar y  su respectivo valor, este le pedira la cantidad del producto que desea llevar y le arrojara el valor de la compra, y le permitira seguir comprando productos, al final se le imprimira una factura con los productos facturados,  Elaborado por PAULA ALEJANDRA MONCADA CASTIBLANCO, ficha: 2470980, ADSO
+
+En este repositorio encontraran un programa donde el usuario puede ingresar el numero y este le arrojara la tabla de este mismo.
+Elaborado por PAULA ALEJANDRA MONCADA CASTIBLANCO, FICHA: 2470980, ADSO.
+![image](https://user-images.githubusercontent.com/101758866/176949879-aca52b87-df3f-42da-8b02-a81e3d5b140e.png)
